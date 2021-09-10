@@ -64,7 +64,7 @@ class Profile extends React.Component {
               </svg>
             </div>
           </section>
-          <section className="section">
+          <section className="section-linear-gradient">
             <Container>
               <Card className="card-profile shadow mt--300">
                 <div className="px-4">
@@ -144,10 +144,10 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An programmer with passtion for gaming, and programmes to 
-                          save time for people and my self, i enjoy life and love
-                          going out for walks
-
+                          A motivated, adaptable responsible Software Engineering graduate 
+                          is seeking good work opportunities at reputable companies to 
+                          utilize professional and technical skills developed throw past 
+                          past work experiances in this field .
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
