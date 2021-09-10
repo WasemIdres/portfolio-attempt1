@@ -64,7 +64,7 @@ class Profile extends React.Component {
               </svg>
             </div>
           </section>
-          <section className="section">
+          <section className="section-linear-gradient">
             <Container>
               <Card className="card-profile shadow mt--300">
                 <div className="px-4">
