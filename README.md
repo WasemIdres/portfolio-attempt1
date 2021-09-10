@@ -224,3 +224,15 @@ Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 
 (Visit my portfolio)[https://wasem-portfolio.netlify.app/]
+
+Number and name of feature: 
+
+- changes to the site desgin and content
+
+Estimate of time needed to complete: 4 hours
+
+Start time: 2:30 thusday
+
+Finish time: 6:30 friday
+
+Actual time needed to complete: a lot didnt count 
