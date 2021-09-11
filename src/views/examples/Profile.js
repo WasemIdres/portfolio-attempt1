@@ -143,7 +143,7 @@ class Profile extends React.Component {
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
-                        <p>
+                        <p style={{fontWeight:"450"}}>
                           A motivated, adaptable responsible Software Engineering graduate 
                           is seeking good work opportunities at reputable companies to 
                           utilize professional and technical skills developed throw past 
