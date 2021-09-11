@@ -127,7 +127,7 @@ class Profile extends React.Component {
                       Wasem Idres{" "}
                       <span className="font-weight-light">, 23</span>
                     </h3>
-                    <div className="h6 font-weight-300">
+                    <div className="h6 font-weight-450">
                       <i className="ni location_pin mr-2" />
                       Amman, Jordan
                     </div>
